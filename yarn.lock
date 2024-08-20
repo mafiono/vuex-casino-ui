@@ -2441,9 +2441,9 @@ core-js-compat@^3.21.0, core-js-compat@^3.22.1, core-js-compat@^3.8.3:
     semver "7.0.0"
 
 core-js@^3.8.3:
-  version "3.24.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.24.1.tgz#cf7724d41724154010a6576b7b57d94c5d66e64f"
-  integrity sha512-0QTBSYSUZ6Gq21utGzkfITDylE8jWC9Ne1D2MrhvlsZBI1x39OdDIVbzSqtgMndIy6BlHxBXpMGqzZmnztg2rg==
+  version "3.38.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.38.1.tgz#aa375b79a286a670388a1a363363d53677c0383e"
+  integrity sha512-OP35aUorbU3Zvlx7pjsFdu1rGNnD4pgw/CWoYzRY3t2EzoVT7shKHY1dlAy3f41cGIO7ZDPQimhGFTlEYkG/Hw==
 
 core-util-is@~1.0.0:
   version "1.0.3"
